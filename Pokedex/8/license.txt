@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mew
+* source:	https://sketchfab.com/3d-models/mew-bcf7f9e1c6fa47d19a543e13b6a40f47
+* author:	Gusto (https://sketchfab.com/augustogoogle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mew" (https://sketchfab.com/3d-models/mew-bcf7f9e1c6fa47d19a543e13b6a40f47) by Gusto (https://sketchfab.com/augustogoogle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
